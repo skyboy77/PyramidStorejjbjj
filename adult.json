@@ -9,7 +9,13 @@
     "playerType": 1,
     "timeout": 10
 }],
-  "sites":[
+  "sites":[{
+   "key": "精品资源站",
+   "name": "精品资源",
+   "type": 1,
+   "api": "https://www.jingpinx.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
      {
     "key": "51吸瓜",
     "name": "51吸瓜",
@@ -273,10 +279,11 @@
         "uhibo.com",
         ".*boku.*",
         ".*nivod.*",
+        ".*ulivetv.*",
         "alist.xrbzy.xyz",
         ".kissavtv.com",
         "api.nivodz.com",
-        "18av.mm-cg.com",
+        ".xvideos.com",
         "missav.ai",
         "hanime.tv",
         "jable.tv"
