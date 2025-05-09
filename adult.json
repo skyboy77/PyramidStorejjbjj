@@ -13,8 +13,7 @@
    "key": "精品资源站",
    "name": "精品资源",
    "type": 1,
-   "api": "https://www.jingpinx.com/api.php/provide/vod/",
-   "ext": "proxy"
+   "api": "https://www.jingpinx.com/api.php/provide/vod/"
   },
      {
     "key": "51吸瓜",
@@ -280,6 +279,7 @@
         ".*boku.*",
         ".*nivod.*",
         ".*ulivetv.*",
+        ".jingpinx.com",
         "alist.xrbzy.xyz",
         ".kissavtv.com",
         "api.nivodz.com",
