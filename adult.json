@@ -15,6 +15,15 @@
    "type": 1,
    "api": "https://www.jingpinx.com/api.php/provide/vod/"
   },
+{
+    "key": "Miss",
+    "name": "Miss",
+    "type": 3,
+    "api":  "./plugin/adult/Miss.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
      {
     "key": "51吸瓜",
     "name": "51吸瓜",
